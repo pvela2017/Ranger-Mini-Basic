@@ -22,7 +22,7 @@ sudo apt install ros-noetic-teleop-twist-keyboard
 
 ```
 mkdir ~/ranger_mini && cd ~/ranger_mini
-git clone https://github.com/mefisto2017/Ranger-Mini-Project.git
+git clone https://github.com/pvela2017/Ranger-Mini-Project.git
 
 # install the ascent library at first
 cd src/ranger_ros/ranger_base/ascent
